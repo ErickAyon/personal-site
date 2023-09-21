@@ -15,5 +15,3 @@ and frameworks!
 - Java Programming
 - Fundamentals of Web Development
 - Python For Data Analytics
-
-
