@@ -1,6 +1,7 @@
 {
   "name": "personal-site",
   "version": "1.0.0",
+  "homepage": "https://erickayon.github.io/resume/",
   "engines": {
     "node": ">=14.x"
   },
