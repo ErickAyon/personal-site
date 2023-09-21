@@ -14,12 +14,9 @@ const Index = () => (
           <h2><a href="https://www.github.com/erickayon">Check out my github!</a></h2>
         </div>
       </header>
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
-        or you can check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
-        <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+      <p> Welcome to my website. Please feel free to check out my {' '}
+        <Link to="/resume">resume</Link> {' '}
+        and <Link to="/projects">projects</Link>.
       </p>
     </article>
   </Main>
