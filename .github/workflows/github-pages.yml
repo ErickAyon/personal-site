@@ -19,7 +19,7 @@ jobs:
         with:
           node-version-file: '.nvmrc'
       - name: Install
-        run: npm ci
+        run: npm install
       - name: Build and Deploy
         env:
           NODE_ENV: production
