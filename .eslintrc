@@ -29,7 +29,6 @@
     "react/jsx-no-useless-fragment": 0,
     "react/jsx-one-expression-per-line": 0,
     "react/jsx-props-no-spreading": 0,
-    "linebreak-style": ["error", "windows"],
     "react/jsx-wrap-multilines": [1, {
       "declaration": true,
       "assignment": true,
