@@ -9,7 +9,7 @@ const data = [
     icon: faGithub,
   },
   {
-    link: 'www.linkedin.com/in/erick-ayon',
+    link: 'https://www.linkedin.com/in/erick-ayon',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
