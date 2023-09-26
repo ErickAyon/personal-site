@@ -1,21 +1,14 @@
-import React from 'react';
-import data from './data'; // Assuming data.js is in the same directory
+const data = [
+  {
+    title: 'REST API: Fitness Class Tracker',
+    subtitle: 'Personal Project',
+    image: '/images/projects/yogaapp.jpg',
+    date: '2023-09-01',
+    desc:
+      'I love yoga and would love to start a donation based yoga app. Here is a backend I built using Spring Boot and Spring JPA. 
+      
+    You can find the code here: https://github.com/ErickAyon/yoga-class',
+  },
+];
 
-const Project = () => {
-  return (
-    <div className="project">
-      {data.map((item, index) => (
-        <div key={index} className="project-item" style={{ backgroundImage: `url(/images/projects/yogaapp.jpg)` }}>
-          <div className="project-info">
-            <h2>{item.title}</h2>
-            <h3>{item.subtitle}</h3>
-            <p>{item.date}</p>
-            <p>{item.desc}</p>
-          </div>
-        </div>
-      ))}
-    </div>
-  );
-};
-
-export default Project;
+export default data;
