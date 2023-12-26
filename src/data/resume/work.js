@@ -1,6 +1,6 @@
 const work = [
   {
-    name: 'Penn Health',
+    name: 'Penn Medicine',
     position: 'Information Technology Analyst',
     startDate: '2021-09-01',
     highlights: [
