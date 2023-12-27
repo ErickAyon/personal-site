@@ -4,8 +4,10 @@ const work = [
     position: 'Information Technology Analyst',
     startDate: '2021-09-01',
     highlights: [
-      'Performed  installations, repairs, upgrades, and maintenance on hardware and equipment for hospital employees.',
-      'Maintained a hospital-wide file server running in a Unix environment. Responsibilities included overseeing deployments and managing user onboarding.',
+      'Function as a key liaison with users, engaging in complex technical matters for projects, and conducting detailed analyses with the preparation of reports on system problem trends.',
+      'Deliver advanced support by handling installations, servicing, and repairs of systems equipment, showcasing technical proficiency in issue resolution troubleshooting.',
+      'Responsibilities included overseeing deployments and managing user onboarding process.',
+
     ],
   },
   {
