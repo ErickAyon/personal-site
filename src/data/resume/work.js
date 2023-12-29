@@ -5,7 +5,9 @@ const work = [
     startDate: '2021-09-01',
     highlights: [
       'Function as a key liaison with users, engaging in complex technical matters for projects, and conducting detailed analyses with the preparation of reports on system problem trends.',
+      
       'Deliver advanced support by handling installations, servicing, and repairs of systems equipment, showcasing technical proficiency in issue resolution troubleshooting.',
+      
       'Responsibilities included overseeing deployments and managing user onboarding process.',
 
     ],
