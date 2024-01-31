@@ -21,7 +21,7 @@ const SideBar = () => (
       <h2>About</h2>
         <p>Hi, I&apos;m Erick. I am a Computer Science student (Class of 2024) and lover of
         all things coding. Outside of school, I work as an IT Analyst at Penn Medicine. I am
-            currently looking for full-time and internship opportunities starting Summer 2024.
+            currently looking for full-time opportunities.
             On this site you can find my resume and personal projects.
         </p>
       <ul className="actions">
